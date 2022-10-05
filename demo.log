@@ -1,0 +1,4 @@
+2022-10-05 17:03:50,789 root WARNING log_demo 21: Got some problems. Login fail
+2022-10-05 17:03:50,789 root Level 35 log_demo 23: User can't login.
+2022-10-05 17:03:50,789 root ERROR log_demo 25: Error message
+2022-10-05 17:03:50,789 root CRITICAL log_demo 27: Alert!!!
