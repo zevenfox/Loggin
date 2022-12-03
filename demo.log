@@ -2,3 +2,19 @@
 2022-10-05 17:03:50,789 root Level 35 log_demo 23: User can't login.
 2022-10-05 17:03:50,789 root ERROR log_demo 25: Error message
 2022-10-05 17:03:50,789 root CRITICAL log_demo 27: Alert!!!
+2022-12-03 23:00:34,361 root WARNING log_demo 21: Got some problems. Login fail
+2022-12-03 23:00:34,361 root Level 35 log_demo 23: User can't login.
+2022-12-03 23:00:34,361 root ERROR log_demo 25: Error message
+2022-12-03 23:00:34,361 root CRITICAL log_demo 27: Alert!!!
+2022-12-04 02:16:54,352 root DEBUG: Debug message.
+2022-12-04 02:16:54,353 root INFO: User login Successfully.
+2022-12-04 02:16:54,353 root WARNING: Got some problems. Login fail
+2022-12-04 02:16:54,353 root Level 35: User can't login.
+2022-12-04 02:16:54,353 root ERROR: Error message
+2022-12-04 02:16:54,353 root CRITICAL: Alert!!!
+2022-12-04 02:17:08,665 root DEBUG: Debug message.
+2022-12-04 02:17:08,665 root INFO: User login Successfully.
+2022-12-04 02:17:08,665 root WARNING: Got some problems. Login fail
+2022-12-04 02:17:08,665 root Level 35: User can't login.
+2022-12-04 02:17:08,665 root ERROR: Error message
+2022-12-04 02:17:08,665 root CRITICAL: Alert!!!
